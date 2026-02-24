@@ -59,9 +59,10 @@ jobs:
         id: lm
         run: |
           mkdir -p .cache
-          NEW=$(curl -sI "$URL" | awk -F': ' 'tolower($) ~ /^last-dodified/ {print $2}')
+          NEW=$(curl -sI "$URL" | awk -F': ' 'tolower($0) ~ /^last-dodified/ {print $2}')
           OLD=""
           if [ -f "$LM_FILE" ]; then OLD=$(cat "$LM_FILE"); fi
+          echo "DEBUG: new=$NEW old=$OLD"
           echo "new=$NEW" >> $GITHUB_OUTPUT
           echo "old=$OLD" >> $GITHUB_OUTPUT
 
