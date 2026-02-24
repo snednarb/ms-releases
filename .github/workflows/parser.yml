@@ -1,0 +1,207 @@
+name: Build Microsoft Release JSON
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+
+  windows10:
+    name: Windows 10
+    runs-on: ubuntu-latest
+    env:
+      URL: https://learn.microsoft.com/en-us/windows/release-health/release-information
+      OUT: windows10.json
+      LM_FILE: .cache/windows10.lastmod
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: lastmod-win10
+
+      - name: Check Last-Modified
+        id: lm
+        run: |
+          mkdir -p .cache
+          NEW=$(curl -sI "$URL" | awk -F': ' '/^Last-Modified/ {print $2}')
+          OLD=""
+          if [ -f "$LM_FILE" ]; then OLD=$(cat "$LM_FILE"); fi
+          echo "new=$NEW" >> $GITHUB_OUTPUT
+          echo "old=$OLD" >> $GITHUB_OUTPUT
+
+      - name: Stop if unchanged (schedule)
+        if: ${{ steps.lm.outputs.new == steps.lm.outputs.old && github.event_name == 'schedule' }}
+        run: echo "No change detected; skipping."
+
+      - uses: actions/setup-python@v5
+        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        run: pip install requests beautifulsoup4
+
+      - name: Generate JSON
+        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        run: python ms_release_parser.py --url "$URL" --out "$OUT"
+
+      - name: Update Last-Modified
+        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        run: echo "${{ steps.lm.outputs.new }}" > "$LM_FILE"
+
+      - name: Commit changes
+        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add "$OUT" "$LM_FILE"
+
+          if git diff --cached --quiet; then
+            echo "No JSON change"
+          else
+            git commit -m "Update Windows 10 release data"
+            git push
+          fi
+
+
+  windows11:
+    name: Windows 11
+    runs-on: ubuntu-latest
+    env:
+      URL: https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information
+      OUT: windows11.json
+      LM_FILE: .cache/windows11.lastmod
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: lastmod-win11
+
+      - name: Check Last-Modified
+        id: lm
+        run: |
+          mkdir -p .cache
+          NEW=$(curl -sI "$URL" | awk -F': ' '/^Last-Modified/ {print $2}')
+          OLD=""
+          if [ -f "$LM_FILE" ]; then OLD=$(cat "$LM_FILE"); fi
+          echo "new=$NEW" >> $GITHUB_OUTPUT
+          echo "old=$OLD" >> $GITHUB_OUTPUT
+
+      - name: Stop if unchanged (schedule)
+        if: ${{ steps.lm.outputs.new == steps.lm.outputs.old && github.event_name == 'schedule' }}
+        run: echo "No change detected; skipping."
+
+      - uses: actions/setup-python@v5
+        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        run: pip install requests beautifulsoup4
+
+      - name: Generate JSON
+        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        run: python ms_release_parser.py --url "$URL" --out "$OUT"
+
+      - name: Update Last-Modified
+        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        run: echo "${{ steps.lm.outputs.new }}" > "$LM_FILE"
+
+      - name: Commit changes
+        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add "$OUT" "$LM_FILE"
+
+          if git diff --cached --quiet; then
+            echo "No JSON change"
+          else
+            git commit -m "Update Windows 11 release data"
+            git push
+          fi
+
+
+  windowsserver:
+    name: Windows Server
+    runs-on: ubuntu-latest
+    env:
+      URL: https://learn.microsoft.com/en-us/windows/release-health/windows-server-release-info
+      OUT: windowsserver.json
+      LM_FILE: .cache/windowsserver.lastmod
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: lastmod-winserver
+
+      - name: Check Last-Modified
+        id: lm
+        run: |
+          mkdir -p .cache
+          NEW=$(curl -sI "$URL" | awk -F': ' '/^Last-Modified/ {print $2}')
+          OLD=""
+          if [ -f "$LM_FILE" ]; then OLD=$(cat "$LM_FILE"); fi
+          echo "new=$NEW" >> $GITHUB_OUTPUT
+          echo "old=$OLD" >> $GITHUB_OUTPUT
+
+      - name: Stop if unchanged (schedule)
+        if: ${{ steps.lm.outputs.new == steps.lm.outputs.old && github.event_name == 'schedule' }}
+        run: echo "No change detected; skipping."
+
+      - uses: actions/setup-python@v5
+        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        run: pip install requests beautifulsoup4
+
+      - name: Generate JSON
+        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        run: python ms_release_parser.py --url "$URL" --out "$OUT"
+
+      - name: Update Last-Modified
+        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        run: echo "${{ steps.lm.outputs.new }}" > "$LM_FILE"
+
+      - name: Commit changes
+        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add "$OUT" "$LM_FILE"
+
+          if git diff --cached --quiet; then
+            echo "No JSON change"
+          else
+            git commit -m "Update Windows Server release data"
+            git push
+          fi
