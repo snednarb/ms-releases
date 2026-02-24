@@ -1,0 +1,1873 @@
+[
+  {
+    "OS": "Version 21H2 (OS build 22000)",
+    "Releases": [
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-10 B",
+        "AvailabilityDate": "2024-10-08",
+        "Build": "22000.3260",
+        "KBArticle": "KB5044280"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-09 B",
+        "AvailabilityDate": "2024-09-10",
+        "Build": "22000.3197",
+        "KBArticle": "KB5043067"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-08 B",
+        "AvailabilityDate": "2024-08-13",
+        "Build": "22000.3147",
+        "KBArticle": "KB5041592"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-07 B",
+        "AvailabilityDate": "2024-07-09",
+        "Build": "22000.3079",
+        "KBArticle": "KB5040431"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-06 B",
+        "AvailabilityDate": "2024-06-11",
+        "Build": "22000.3019",
+        "KBArticle": "KB5039213"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-05 B",
+        "AvailabilityDate": "2024-05-14",
+        "Build": "22000.2960",
+        "KBArticle": "KB5037770"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-04 B",
+        "AvailabilityDate": "2024-04-09",
+        "Build": "22000.2899",
+        "KBArticle": "KB5036894"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-03 B",
+        "AvailabilityDate": "2024-03-12",
+        "Build": "22000.2836",
+        "KBArticle": "KB5035854"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-02 B",
+        "AvailabilityDate": "2024-02-13",
+        "Build": "22000.2777",
+        "KBArticle": "KB5034766"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-01 B",
+        "AvailabilityDate": "2024-01-09",
+        "Build": "22000.2713",
+        "KBArticle": "KB5034121"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-12 B",
+        "AvailabilityDate": "2023-12-12",
+        "Build": "22000.2652",
+        "KBArticle": "KB5033369"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-11 B",
+        "AvailabilityDate": "2023-11-14",
+        "Build": "22000.2600",
+        "KBArticle": "KB5032192"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-10 B",
+        "AvailabilityDate": "2023-10-10",
+        "Build": "22000.2538",
+        "KBArticle": "KB5031358"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-09 D",
+        "AvailabilityDate": "2023-09-26",
+        "Build": "22000.2482",
+        "KBArticle": "KB5030301"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-09 B",
+        "AvailabilityDate": "2023-09-12",
+        "Build": "22000.2416",
+        "KBArticle": "KB5030217"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-08 D",
+        "AvailabilityDate": "2023-08-22",
+        "Build": "22000.2360",
+        "KBArticle": "KB5029332"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-08 B",
+        "AvailabilityDate": "2023-08-08",
+        "Build": "22000.2295",
+        "KBArticle": "KB5029253"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-07 D",
+        "AvailabilityDate": "2023-07-25",
+        "Build": "22000.2245",
+        "KBArticle": "KB5028245"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-07 B",
+        "AvailabilityDate": "2023-07-11",
+        "Build": "22000.2176",
+        "KBArticle": "KB5028182"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-06 D",
+        "AvailabilityDate": "2023-06-28",
+        "Build": "22000.2124",
+        "KBArticle": "KB5027292"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-06 B",
+        "AvailabilityDate": "2023-06-13",
+        "Build": "22000.2057",
+        "KBArticle": "KB5027223"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-05 D",
+        "AvailabilityDate": "2023-05-23",
+        "Build": "22000.2003",
+        "KBArticle": "KB5026436"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-05 B",
+        "AvailabilityDate": "2023-05-09",
+        "Build": "22000.1936",
+        "KBArticle": "KB5026368"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-04 D",
+        "AvailabilityDate": "2023-04-25",
+        "Build": "22000.1880",
+        "KBArticle": "KB5025298"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-04 B",
+        "AvailabilityDate": "2023-04-11",
+        "Build": "22000.1817",
+        "KBArticle": "KB5025224"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-03 C",
+        "AvailabilityDate": "2023-03-28",
+        "Build": "22000.1761",
+        "KBArticle": "KB5023774"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-03 B",
+        "AvailabilityDate": "2023-03-14",
+        "Build": "22000.1696",
+        "KBArticle": "KB5023698"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-02 C",
+        "AvailabilityDate": "2023-02-21",
+        "Build": "22000.1641",
+        "KBArticle": "KB5022905"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-02 B",
+        "AvailabilityDate": "2023-02-14",
+        "Build": "22000.1574",
+        "KBArticle": "KB5022836"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-01 C",
+        "AvailabilityDate": "2023-01-19",
+        "Build": "22000.1516",
+        "KBArticle": "KB5019274"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-01 B",
+        "AvailabilityDate": "2023-01-10",
+        "Build": "22000.1455",
+        "KBArticle": "KB5022287"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-12 B",
+        "AvailabilityDate": "2022-12-13",
+        "Build": "22000.1335",
+        "KBArticle": "KB5021234"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-11 C",
+        "AvailabilityDate": "2022-11-15",
+        "Build": "22000.1281",
+        "KBArticle": "KB5019157"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-11 B",
+        "AvailabilityDate": "2022-11-08",
+        "Build": "22000.1219",
+        "KBArticle": "KB5019961"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-10 C",
+        "AvailabilityDate": "2022-10-25",
+        "Build": "22000.1165",
+        "KBArticle": "KB5018483"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-10 OOB",
+        "AvailabilityDate": "2022-10-17",
+        "Build": "22000.1100",
+        "KBArticle": "KB5020387"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-10 B",
+        "AvailabilityDate": "2022-10-11",
+        "Build": "22000.1098",
+        "KBArticle": "KB5018418"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-09 C",
+        "AvailabilityDate": "2022-09-20",
+        "Build": "22000.1042",
+        "KBArticle": "KB5017383"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-09 B",
+        "AvailabilityDate": "2022-09-13",
+        "Build": "22000.978",
+        "KBArticle": "KB5017328"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-08 C",
+        "AvailabilityDate": "2022-08-25",
+        "Build": "22000.918",
+        "KBArticle": "KB5016691"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-08 B",
+        "AvailabilityDate": "2022-08-09",
+        "Build": "22000.856",
+        "KBArticle": "KB5016629"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-07 C",
+        "AvailabilityDate": "2022-07-21",
+        "Build": "22000.832",
+        "KBArticle": "KB5015882"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-07 B",
+        "AvailabilityDate": "2022-07-12",
+        "Build": "22000.795",
+        "KBArticle": "KB5015814"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-06 C",
+        "AvailabilityDate": "2022-06-23",
+        "Build": "22000.778",
+        "KBArticle": "KB5014668"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-06 OOB",
+        "AvailabilityDate": "2022-06-20",
+        "Build": "22000.740",
+        "KBArticle": "KB5016138"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-06 B",
+        "AvailabilityDate": "2022-06-14",
+        "Build": "22000.739",
+        "KBArticle": "KB5014697"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-05 C",
+        "AvailabilityDate": "2022-05-24",
+        "Build": "22000.708",
+        "KBArticle": "KB5014019"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-05 B",
+        "AvailabilityDate": "2022-05-10",
+        "Build": "22000.675",
+        "KBArticle": "KB5013943"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-04 C",
+        "AvailabilityDate": "2022-04-25",
+        "Build": "22000.652",
+        "KBArticle": "KB5012643"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-04 B",
+        "AvailabilityDate": "2022-04-12",
+        "Build": "22000.613",
+        "KBArticle": "KB5012592"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-03 C",
+        "AvailabilityDate": "2022-03-28",
+        "Build": "22000.593",
+        "KBArticle": "KB5011563"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-03 B",
+        "AvailabilityDate": "2022-03-08",
+        "Build": "22000.556",
+        "KBArticle": "KB5011493"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-02 C",
+        "AvailabilityDate": "2022-02-15",
+        "Build": "22000.527",
+        "KBArticle": "KB5010414"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-02 B",
+        "AvailabilityDate": "2022-02-08",
+        "Build": "22000.493",
+        "KBArticle": "KB5010386"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-01 C",
+        "AvailabilityDate": "2022-01-25",
+        "Build": "22000.469",
+        "KBArticle": "KB5008353"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-01 OOB",
+        "AvailabilityDate": "2022-01-17",
+        "Build": "22000.438",
+        "KBArticle": "KB5010795"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-01 B",
+        "AvailabilityDate": "2022-01-11",
+        "Build": "22000.434",
+        "KBArticle": "KB5009566"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2021-12 B",
+        "AvailabilityDate": "2021-12-14",
+        "Build": "22000.376",
+        "KBArticle": "KB5008215"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2021-11 C",
+        "AvailabilityDate": "2021-11-22",
+        "Build": "22000.348",
+        "KBArticle": "KB5007262"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2021-11 B",
+        "AvailabilityDate": "2021-11-09",
+        "Build": "22000.318",
+        "KBArticle": "KB5007215"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2021-10 C",
+        "AvailabilityDate": "2021-10-21",
+        "Build": "22000.282",
+        "KBArticle": "KB5006746"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2021-10 B",
+        "AvailabilityDate": "2021-10-12",
+        "Build": "22000.258",
+        "KBArticle": "KB5006674"
+      }
+    ]
+  },
+  {
+    "OS": "Version 22H2 (OS build 22621)",
+    "Releases": [
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-10 B",
+        "AvailabilityDate": "2025-10-14",
+        "Build": "22621.6060",
+        "KBArticle": "KB5066793"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-09 B",
+        "AvailabilityDate": "2025-09-09",
+        "Build": "22621.5909",
+        "KBArticle": "KB5065431"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-08 OOB",
+        "AvailabilityDate": "2025-08-19",
+        "Build": "22621.5771",
+        "KBArticle": "KB5066189"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-08 B",
+        "AvailabilityDate": "2025-08-12",
+        "Build": "22621.5768",
+        "KBArticle": "KB5063875"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-07 B",
+        "AvailabilityDate": "2025-07-08",
+        "Build": "22621.5624",
+        "KBArticle": "KB5062552"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-06 D",
+        "AvailabilityDate": "2025-06-26",
+        "Build": "22621.5549",
+        "KBArticle": "KB5060826"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-06 B",
+        "AvailabilityDate": "2025-06-10",
+        "Build": "22621.5472",
+        "KBArticle": "KB5060999"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-05 OOB",
+        "AvailabilityDate": "2025-05-31",
+        "Build": "22621.5415",
+        "KBArticle": "KB5062170"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-05 D",
+        "AvailabilityDate": "2025-05-27",
+        "Build": "22621.5413",
+        "KBArticle": "KB5058502"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-05 B",
+        "AvailabilityDate": "2025-05-13",
+        "Build": "22621.5335",
+        "KBArticle": "KB5058405"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-04 D",
+        "AvailabilityDate": "2025-04-22",
+        "Build": "22621.5262",
+        "KBArticle": "KB5055629"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-04 OOB",
+        "AvailabilityDate": "2025-04-11",
+        "Build": "22621.5192",
+        "KBArticle": "KB5058919"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-04 B",
+        "AvailabilityDate": "2025-04-08",
+        "Build": "22621.5189",
+        "KBArticle": "KB5055528"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-03 D",
+        "AvailabilityDate": "2025-03-25",
+        "Build": "22621.5126",
+        "KBArticle": "KB5053657"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-03 B",
+        "AvailabilityDate": "2025-03-11",
+        "Build": "22621.5039",
+        "KBArticle": "KB5053602"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-02 D",
+        "AvailabilityDate": "2025-02-25",
+        "Build": "22621.4974",
+        "KBArticle": "KB5052094"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-02 B",
+        "AvailabilityDate": "2025-02-11",
+        "Build": "22621.4890",
+        "KBArticle": "KB5051989"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-01 D",
+        "AvailabilityDate": "2025-01-29",
+        "Build": "22621.4830",
+        "KBArticle": "KB5050092"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-01 B",
+        "AvailabilityDate": "2025-01-14",
+        "Build": "22621.4751",
+        "KBArticle": "KB5050021"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-12 B",
+        "AvailabilityDate": "2024-12-10",
+        "Build": "22621.4602",
+        "KBArticle": "KB5048685"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-11 D",
+        "AvailabilityDate": "2024-11-21",
+        "Build": "22621.4541",
+        "KBArticle": "KB5046732"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-11 B",
+        "AvailabilityDate": "2024-11-12",
+        "Build": "22621.4460",
+        "KBArticle": "KB5046633"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-10 D",
+        "AvailabilityDate": "2024-10-22",
+        "Build": "22621.4391",
+        "KBArticle": "KB5044380"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-10 B",
+        "AvailabilityDate": "2024-10-08",
+        "Build": "22621.4317",
+        "KBArticle": "KB5044285"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-09 D",
+        "AvailabilityDate": "2024-09-26",
+        "Build": "22621.4249",
+        "KBArticle": "KB5043145"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-09 B",
+        "AvailabilityDate": "2024-09-10",
+        "Build": "22621.4169",
+        "KBArticle": "KB5043076"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-08 D",
+        "AvailabilityDate": "2024-08-27",
+        "Build": "22621.4112",
+        "KBArticle": "KB5041587"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-08 B",
+        "AvailabilityDate": "2024-08-13",
+        "Build": "22621.4037",
+        "KBArticle": "KB5041585"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-07 D",
+        "AvailabilityDate": "2024-07-25",
+        "Build": "22621.3958",
+        "KBArticle": "KB5040527"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-07 B",
+        "AvailabilityDate": "2024-07-09",
+        "Build": "22621.3880",
+        "KBArticle": "KB5040442"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-06 D",
+        "AvailabilityDate": "2024-06-25",
+        "Build": "22621.3810",
+        "KBArticle": "KB5039302"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-06 B",
+        "AvailabilityDate": "2024-06-11",
+        "Build": "22621.3737",
+        "KBArticle": "KB5039212"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-05 D",
+        "AvailabilityDate": "2024-05-29",
+        "Build": "22621.3672",
+        "KBArticle": "KB5037853"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-05 B",
+        "AvailabilityDate": "2024-05-14",
+        "Build": "22621.3593",
+        "KBArticle": "KB5037771"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-04 D",
+        "AvailabilityDate": "2024-04-23",
+        "Build": "22621.3527",
+        "KBArticle": "KB5036980"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-04 B",
+        "AvailabilityDate": "2024-04-09",
+        "Build": "22621.3447",
+        "KBArticle": "KB5036893"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-03 D",
+        "AvailabilityDate": "2024-03-26",
+        "Build": "22621.3374",
+        "KBArticle": "KB5035942"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-03 B",
+        "AvailabilityDate": "2024-03-12",
+        "Build": "22621.3296",
+        "KBArticle": "KB5035853"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-02 D",
+        "AvailabilityDate": "2024-02-29",
+        "Build": "22621.3235",
+        "KBArticle": "KB5034848"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-02 B",
+        "AvailabilityDate": "2024-02-13",
+        "Build": "22621.3155",
+        "KBArticle": "KB5034765"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-01 D",
+        "AvailabilityDate": "2024-01-23",
+        "Build": "22621.3085",
+        "KBArticle": "KB5034204"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-01 B",
+        "AvailabilityDate": "2024-01-09",
+        "Build": "22621.3007",
+        "KBArticle": "KB5034123"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-12 B",
+        "AvailabilityDate": "2023-12-12",
+        "Build": "22621.2861",
+        "KBArticle": "KB5033375"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-11 D",
+        "AvailabilityDate": "2023-12-04",
+        "Build": "22621.2792",
+        "KBArticle": "KB5032288"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-11 B",
+        "AvailabilityDate": "2023-11-14",
+        "Build": "22621.2715",
+        "KBArticle": "KB5032190"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-10 D",
+        "AvailabilityDate": "2023-10-26",
+        "Build": "22621.2506",
+        "KBArticle": "KB5031455"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-10 B",
+        "AvailabilityDate": "2023-10-10",
+        "Build": "22621.2428",
+        "KBArticle": "KB5031354"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-09 D",
+        "AvailabilityDate": "2023-09-26",
+        "Build": "22621.2361",
+        "KBArticle": "KB5030310"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-09 B",
+        "AvailabilityDate": "2023-09-12",
+        "Build": "22621.2283",
+        "KBArticle": "KB5030219"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-08 D",
+        "AvailabilityDate": "2023-08-22",
+        "Build": "22621.2215",
+        "KBArticle": "KB5029351"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-08 B",
+        "AvailabilityDate": "2023-08-08",
+        "Build": "22621.2134",
+        "KBArticle": "KB5029263"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-07 D",
+        "AvailabilityDate": "2023-07-26",
+        "Build": "22621.2070",
+        "KBArticle": "KB5028254"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-07 B",
+        "AvailabilityDate": "2023-07-11",
+        "Build": "22621.1992",
+        "KBArticle": "KB5028185"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-06 D",
+        "AvailabilityDate": "2023-06-27",
+        "Build": "22621.1928",
+        "KBArticle": "KB5027303"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-06 B",
+        "AvailabilityDate": "2023-06-13",
+        "Build": "22621.1848",
+        "KBArticle": "KB5027231"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-05 D",
+        "AvailabilityDate": "2023-05-24",
+        "Build": "22621.1778",
+        "KBArticle": "KB5026446"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-05 B",
+        "AvailabilityDate": "2023-05-09",
+        "Build": "22621.1702",
+        "KBArticle": "KB5026372"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-04 D",
+        "AvailabilityDate": "2023-04-25",
+        "Build": "22621.1635",
+        "KBArticle": "KB5025305"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-04 B",
+        "AvailabilityDate": "2023-04-11",
+        "Build": "22621.1555",
+        "KBArticle": "KB5025239"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-03 D",
+        "AvailabilityDate": "2023-03-28",
+        "Build": "22621.1485",
+        "KBArticle": "KB5023778"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-03 B",
+        "AvailabilityDate": "2023-03-14",
+        "Build": "22621.1413",
+        "KBArticle": "KB5023706"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-02 D",
+        "AvailabilityDate": "2023-02-28",
+        "Build": "22621.1344",
+        "KBArticle": "KB5022913"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-02 B",
+        "AvailabilityDate": "2023-02-14",
+        "Build": "22621.1265",
+        "KBArticle": "KB5022845"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-01 D",
+        "AvailabilityDate": "2023-01-26",
+        "Build": "22621.1194",
+        "KBArticle": "KB5022360"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-01 B",
+        "AvailabilityDate": "2023-01-10",
+        "Build": "22621.1105",
+        "KBArticle": "KB5022303"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-12 B",
+        "AvailabilityDate": "2022-12-13",
+        "Build": "22621.963",
+        "KBArticle": "KB5021255"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-11 D",
+        "AvailabilityDate": "2022-11-29",
+        "Build": "22621.900",
+        "KBArticle": "KB5020044"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-11 B",
+        "AvailabilityDate": "2022-11-08",
+        "Build": "22621.819",
+        "KBArticle": "KB5019980"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-10 D",
+        "AvailabilityDate": "2022-10-25",
+        "Build": "22621.755",
+        "KBArticle": "KB5018496"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-10 OOB",
+        "AvailabilityDate": "2022-10-18",
+        "Build": "22621.675",
+        "KBArticle": "KB5019509"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-10 B",
+        "AvailabilityDate": "2022-10-11",
+        "Build": "22621.674",
+        "KBArticle": "KB5018427"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-09 D",
+        "AvailabilityDate": "2022-09-30",
+        "Build": "22621.608",
+        "KBArticle": "KB5017389"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2022-09 OOB",
+        "AvailabilityDate": "2022-09-27",
+        "Build": "22621.525",
+        "KBArticle": "KB5019311"
+      }
+    ]
+  },
+  {
+    "OS": "Version 23H2 (OS build 22631)",
+    "Releases": [
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-02 B",
+        "AvailabilityDate": "2026-02-10",
+        "Build": "22631.6649",
+        "KBArticle": "KB5075941"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-01 OOB",
+        "AvailabilityDate": "2026-01-24",
+        "Build": "22631.6495",
+        "KBArticle": "KB5078132"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-01 OOB",
+        "AvailabilityDate": "2026-01-17",
+        "Build": "22631.6494",
+        "KBArticle": "KB5077797"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-01 B",
+        "AvailabilityDate": "2026-01-13",
+        "Build": "22631.6491",
+        "KBArticle": "KB5073455"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-12 B",
+        "AvailabilityDate": "2025-12-09",
+        "Build": "22631.6345",
+        "KBArticle": "KB5071417"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-11 D",
+        "AvailabilityDate": "2025-11-20",
+        "Build": "22631.6276",
+        "KBArticle": "KB5070312"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-11 B",
+        "AvailabilityDate": "2025-11-11",
+        "Build": "22631.6199",
+        "KBArticle": "KB5068865"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-10 D",
+        "AvailabilityDate": "2025-10-28",
+        "Build": "22631.6133",
+        "KBArticle": "KB5067112"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-10 B",
+        "AvailabilityDate": "2025-10-14",
+        "Build": "22631.6060",
+        "KBArticle": "KB5066793"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-09 D",
+        "AvailabilityDate": "2025-09-23",
+        "Build": "22631.5984",
+        "KBArticle": "KB5065790"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-09 B",
+        "AvailabilityDate": "2025-09-09",
+        "Build": "22631.5909",
+        "KBArticle": "KB5065431"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-08 D",
+        "AvailabilityDate": "2025-08-26",
+        "Build": "22631.5840",
+        "KBArticle": "KB5064080"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-08 OOB",
+        "AvailabilityDate": "2025-08-19",
+        "Build": "22631.5771",
+        "KBArticle": "KB5066189"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-08 B",
+        "AvailabilityDate": "2025-08-12",
+        "Build": "22631.5768",
+        "KBArticle": "KB5063875"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-07 D",
+        "AvailabilityDate": "2025-07-22",
+        "Build": "22631.5699",
+        "KBArticle": "KB5062663"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-07 B",
+        "AvailabilityDate": "2025-07-08",
+        "Build": "22631.5624",
+        "KBArticle": "KB5062552"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-06 D",
+        "AvailabilityDate": "2025-06-26",
+        "Build": "22631.5549",
+        "KBArticle": "KB5060826"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-06 B",
+        "AvailabilityDate": "2025-06-10",
+        "Build": "22631.5472",
+        "KBArticle": "KB5060999"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-05 OOB",
+        "AvailabilityDate": "2025-05-31",
+        "Build": "22631.5415",
+        "KBArticle": "KB5062170"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-05 D",
+        "AvailabilityDate": "2025-05-27",
+        "Build": "22631.5413",
+        "KBArticle": "KB5058502"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-05 B",
+        "AvailabilityDate": "2025-05-13",
+        "Build": "22631.5335",
+        "KBArticle": "KB5058405"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-04 D",
+        "AvailabilityDate": "2025-04-22",
+        "Build": "22631.5262",
+        "KBArticle": "KB5055629"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-04 OOB",
+        "AvailabilityDate": "2025-04-11",
+        "Build": "22631.5192",
+        "KBArticle": "KB5058919"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-04 B",
+        "AvailabilityDate": "2025-04-08",
+        "Build": "22631.5189",
+        "KBArticle": "KB5055528"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-03 D",
+        "AvailabilityDate": "2025-03-25",
+        "Build": "22631.5126",
+        "KBArticle": "KB5053657"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-03 B",
+        "AvailabilityDate": "2025-03-11",
+        "Build": "22631.5039",
+        "KBArticle": "KB5053602"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-02 D",
+        "AvailabilityDate": "2025-02-25",
+        "Build": "22631.4974",
+        "KBArticle": "KB5052094"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-02 B",
+        "AvailabilityDate": "2025-02-11",
+        "Build": "22631.4890",
+        "KBArticle": "KB5051989"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-01 D",
+        "AvailabilityDate": "2025-01-29",
+        "Build": "22631.4830",
+        "KBArticle": "KB5050092"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-01 B",
+        "AvailabilityDate": "2025-01-14",
+        "Build": "22631.4751",
+        "KBArticle": "KB5050021"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-12 B",
+        "AvailabilityDate": "2024-12-10",
+        "Build": "22631.4602",
+        "KBArticle": "KB5048685"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-11 D",
+        "AvailabilityDate": "2024-11-21",
+        "Build": "22631.4541",
+        "KBArticle": "KB5046732"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-11 B",
+        "AvailabilityDate": "2024-11-12",
+        "Build": "22631.4460",
+        "KBArticle": "KB5046633"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-10 D",
+        "AvailabilityDate": "2024-10-22",
+        "Build": "22631.4391",
+        "KBArticle": "KB5044380"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-10 B",
+        "AvailabilityDate": "2024-10-08",
+        "Build": "22631.4317",
+        "KBArticle": "KB5044285"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-09 D",
+        "AvailabilityDate": "2024-09-26",
+        "Build": "22631.4249",
+        "KBArticle": "KB5043145"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-09 B",
+        "AvailabilityDate": "2024-09-10",
+        "Build": "22631.4169",
+        "KBArticle": "KB5043076"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-08 D",
+        "AvailabilityDate": "2024-08-27",
+        "Build": "22631.4112",
+        "KBArticle": "KB5041587"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-08 B",
+        "AvailabilityDate": "2024-08-13",
+        "Build": "22631.4037",
+        "KBArticle": "KB5041585"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-07 D",
+        "AvailabilityDate": "2024-07-25",
+        "Build": "22631.3958",
+        "KBArticle": "KB5040527"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-07 B",
+        "AvailabilityDate": "2024-07-09",
+        "Build": "22631.3880",
+        "KBArticle": "KB5040442"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-06 D",
+        "AvailabilityDate": "2024-06-25",
+        "Build": "22631.3810",
+        "KBArticle": "KB5039302"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-06 B",
+        "AvailabilityDate": "2024-06-11",
+        "Build": "22631.3737",
+        "KBArticle": "KB5039212"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-05 D",
+        "AvailabilityDate": "2024-05-29",
+        "Build": "22631.3672",
+        "KBArticle": "KB5037853"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-05 B",
+        "AvailabilityDate": "2024-05-14",
+        "Build": "22631.3593",
+        "KBArticle": "KB5037771"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-04 D",
+        "AvailabilityDate": "2024-04-23",
+        "Build": "22631.3527",
+        "KBArticle": "KB5036980"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-04 B",
+        "AvailabilityDate": "2024-04-09",
+        "Build": "22631.3447",
+        "KBArticle": "KB5036893"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-03 D",
+        "AvailabilityDate": "2024-03-26",
+        "Build": "22631.3374",
+        "KBArticle": "KB5035942"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-03 B",
+        "AvailabilityDate": "2024-03-12",
+        "Build": "22631.3296",
+        "KBArticle": "KB5035853"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-02 D",
+        "AvailabilityDate": "2024-02-29",
+        "Build": "22631.3235",
+        "KBArticle": "KB5034848"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-02 B",
+        "AvailabilityDate": "2024-02-13",
+        "Build": "22631.3155",
+        "KBArticle": "KB5034765"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-01 D",
+        "AvailabilityDate": "2024-01-23",
+        "Build": "22631.3085",
+        "KBArticle": "KB5034204"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2024-01 B",
+        "AvailabilityDate": "2024-01-09",
+        "Build": "22631.3007",
+        "KBArticle": "KB5034123"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-12 B",
+        "AvailabilityDate": "2023-12-12",
+        "Build": "22631.2861",
+        "KBArticle": "KB5033375"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-11 D",
+        "AvailabilityDate": "2023-12-04",
+        "Build": "22631.2792",
+        "KBArticle": "KB5032288"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-11 B",
+        "AvailabilityDate": "2023-11-14",
+        "Build": "22631.2715",
+        "KBArticle": "KB5032190"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2023-10 D",
+        "AvailabilityDate": "2023-10-31",
+        "Build": "22631.2506",
+        "KBArticle": "KB5031455"
+      }
+    ]
+  },
+  {
+    "OS": "Version 24H2 (OS build 26100)",
+    "Releases": [
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2026-02 B",
+        "AvailabilityDate": "2026-02-10",
+        "Build": "26100.7840",
+        "KBArticle": "KB5077181"
+      },
+      {
+        "UpdateType": "2026.02 B",
+        "Type": "Hotpatch",
+        "AvailabilityDate": "2026-02-10",
+        "Build": "26100.7781",
+        "KBArticle": "KB5077212"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2026-01 D",
+        "AvailabilityDate": "2026-01-29",
+        "Build": "26100.7705",
+        "KBArticle": "KB5074105"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2026-01 OOB",
+        "AvailabilityDate": "2026-01-24",
+        "Build": "26100.7628",
+        "KBArticle": "KB5078127"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2026-01 OOB",
+        "AvailabilityDate": "2026-01-17",
+        "Build": "26100.7627",
+        "KBArticle": "KB5077744"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2026-01 B",
+        "AvailabilityDate": "2026-01-13",
+        "Build": "26100.7623",
+        "KBArticle": "KB5074109"
+      },
+      {
+        "UpdateType": "2026.01 B",
+        "Type": "Baseline (Restart)",
+        "AvailabilityDate": "2026-01-13",
+        "Build": "26100.7623",
+        "KBArticle": "KB5074109"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-12 B",
+        "AvailabilityDate": "2025-12-09",
+        "Build": "26100.7462",
+        "KBArticle": "KB5072033"
+      },
+      {
+        "UpdateType": "2025.12 B",
+        "Type": "Hotpatch",
+        "AvailabilityDate": "2025-12-09",
+        "Build": "26100.7392",
+        "KBArticle": "KB5072014"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-11 D",
+        "AvailabilityDate": "2025-12-01",
+        "Build": "26100.7309",
+        "KBArticle": "KB5070311"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-11 B",
+        "AvailabilityDate": "2025-11-11",
+        "Build": "26100.7171",
+        "KBArticle": "KB5068861"
+      },
+      {
+        "UpdateType": "2025.11 B",
+        "Type": "Hotpatch",
+        "AvailabilityDate": "2025-11-11",
+        "Build": "26100.7092",
+        "KBArticle": "KB5068966"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-10 D",
+        "AvailabilityDate": "2025-10-28",
+        "Build": "26100.7019",
+        "KBArticle": "KB5067036"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-10 OOB",
+        "AvailabilityDate": "2025-10-20",
+        "Build": "26100.6901",
+        "KBArticle": "KB5070773"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-10 B",
+        "AvailabilityDate": "2025-10-14",
+        "Build": "26100.6899",
+        "KBArticle": "KB5066835"
+      },
+      {
+        "UpdateType": "2025.10 B",
+        "Type": "Baseline (Restart)",
+        "AvailabilityDate": "2025-10-14",
+        "Build": "26100.6899",
+        "KBArticle": "KB5066835"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-09 D",
+        "AvailabilityDate": "2025-09-29",
+        "Build": "26100.6725",
+        "KBArticle": "KB5065789"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-09 OOB",
+        "AvailabilityDate": "2025-09-22",
+        "Build": "26100.6588",
+        "KBArticle": "KB5068221"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-09 B",
+        "AvailabilityDate": "2025-09-09",
+        "Build": "26100.6584",
+        "KBArticle": "KB5065426"
+      },
+      {
+        "UpdateType": "2025.09 B",
+        "Type": "Hotpatch",
+        "AvailabilityDate": "2025-09-09",
+        "Build": "26100.6508",
+        "KBArticle": "KB5065474"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-08 D",
+        "AvailabilityDate": "2025-08-29",
+        "Build": "26100.5074",
+        "KBArticle": "KB5064081"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-08 B",
+        "AvailabilityDate": "2025-08-12",
+        "Build": "26100.4946",
+        "KBArticle": "KB5063878"
+      },
+      {
+        "UpdateType": "2025.08 B",
+        "Type": "Hotpatch",
+        "AvailabilityDate": "2025-08-12",
+        "Build": "26100.4851",
+        "KBArticle": "KB5064010"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-07 D",
+        "AvailabilityDate": "2025-07-22",
+        "Build": "26100.4770",
+        "KBArticle": "KB5062660"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-07 OOB",
+        "AvailabilityDate": "2025-07-13",
+        "Build": "26100.4656",
+        "KBArticle": "KB5064489"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-07 B",
+        "AvailabilityDate": "2025-07-08",
+        "Build": "26100.4652",
+        "KBArticle": "KB5062553"
+      },
+      {
+        "UpdateType": "2025.07 B",
+        "Type": "Baseline (Restart)",
+        "AvailabilityDate": "2025-07-08",
+        "Build": "26100.4652",
+        "KBArticle": "KB5062553"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-06 D",
+        "AvailabilityDate": "2025-06-26",
+        "Build": "26100.4484",
+        "KBArticle": "KB5060829"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-06 OOB",
+        "AvailabilityDate": "2025-06-11",
+        "Build": "26100.4351",
+        "KBArticle": "KB5063060"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-06 B",
+        "AvailabilityDate": "2025-06-10",
+        "Build": "26100.4349",
+        "KBArticle": "KB5060842"
+      },
+      {
+        "UpdateType": "2025.06 B",
+        "Type": "Hotpatch",
+        "AvailabilityDate": "2025-06-10",
+        "Build": "26100.4270",
+        "KBArticle": "KB5060841"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-05 D",
+        "AvailabilityDate": "2025-05-28",
+        "Build": "26100.4202",
+        "KBArticle": "KB5058499"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-05 OOB",
+        "AvailabilityDate": "2025-05-27",
+        "Build": "26100.4066",
+        "KBArticle": "KB5061977"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-05 B",
+        "AvailabilityDate": "2025-05-13",
+        "Build": "26100.4061",
+        "KBArticle": "KB5058411"
+      },
+      {
+        "UpdateType": "2025.05 B",
+        "Type": "Hotpatch",
+        "AvailabilityDate": "2025-05-13",
+        "Build": "26100.3981",
+        "KBArticle": "KB5058497"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-04 D",
+        "AvailabilityDate": "2025-04-25",
+        "Build": "26100.3915",
+        "KBArticle": "KB5055627"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-04 B",
+        "AvailabilityDate": "2025-04-08",
+        "Build": "26100.3775",
+        "KBArticle": "KB5055523"
+      },
+      {
+        "UpdateType": "2025.04 B",
+        "Type": "Baseline (Restart)",
+        "AvailabilityDate": "2025-04-08",
+        "Build": "26100.3775",
+        "KBArticle": "KB5055523"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-03 D",
+        "AvailabilityDate": "2025-03-27",
+        "Build": "26100.3624",
+        "KBArticle": "KB5053656"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-03 B",
+        "AvailabilityDate": "2025-03-11",
+        "Build": "26100.3476",
+        "KBArticle": "KB5053598"
+      },
+      {
+        "UpdateType": "2025.03 B",
+        "Type": "Hotpatch",
+        "AvailabilityDate": "2025-03-11",
+        "Build": "26100.3403",
+        "KBArticle": "KB5053636"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-02 D",
+        "AvailabilityDate": "2025-02-25",
+        "Build": "26100.3323",
+        "KBArticle": "KB5052093"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-02 B",
+        "AvailabilityDate": "2025-02-11",
+        "Build": "26100.3194",
+        "KBArticle": "KB5051987"
+      },
+      {
+        "UpdateType": "2025.02 B",
+        "Type": "Hotpatch",
+        "AvailabilityDate": "2025-02-11",
+        "Build": "26100.3107",
+        "KBArticle": "KB5052105"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-01 D",
+        "AvailabilityDate": "2025-01-28",
+        "Build": "26100.3037",
+        "KBArticle": "KB5050094"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-01 B",
+        "AvailabilityDate": "2025-01-14",
+        "Build": "26100.2894",
+        "KBArticle": "KB5050009"
+      },
+      {
+        "UpdateType": "2025.01 B",
+        "Type": "Baseline (Restart)",
+        "AvailabilityDate": "2025-01-14",
+        "Build": "26100.2894",
+        "KBArticle": "KB5050009"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2024-12 B",
+        "AvailabilityDate": "2024-12-10",
+        "Build": "26100.2605",
+        "KBArticle": "KB5048667"
+      },
+      {
+        "UpdateType": "2024.12 B",
+        "Type": "Hotpatch",
+        "AvailabilityDate": "2024-12-10",
+        "Build": "26100.2528",
+        "KBArticle": "KB5048794"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2024-11 D",
+        "AvailabilityDate": "2024-11-21",
+        "Build": "26100.2454",
+        "KBArticle": "KB5046740"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2024-11 B",
+        "AvailabilityDate": "2024-11-12",
+        "Build": "26100.2314",
+        "KBArticle": "KB5046617"
+      },
+      {
+        "UpdateType": "2024.11 B",
+        "Type": "Hotpatch",
+        "AvailabilityDate": "2024-11-12",
+        "Build": "26100.2240",
+        "KBArticle": "KB5046696"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2024-10 D",
+        "AvailabilityDate": "2024-10-24",
+        "Build": "26100.2161",
+        "KBArticle": "KB5044384"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2024-10 B",
+        "AvailabilityDate": "2024-10-08",
+        "Build": "26100.2033",
+        "KBArticle": "KB5044284"
+      }
+    ]
+  },
+  {
+    "OS": "Version 25H2 (OS build 26200)",
+    "Releases": [
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-02 B",
+        "AvailabilityDate": "2026-02-10",
+        "Build": "26200.7840",
+        "KBArticle": "KB5077181"
+      },
+      {
+        "UpdateType": "2026.02 B",
+        "Type": "Hotpatch",
+        "AvailabilityDate": "2026-02-10",
+        "Build": "26200.7781",
+        "KBArticle": "KB5077212"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-01 D",
+        "AvailabilityDate": "2026-01-29",
+        "Build": "26200.7705",
+        "KBArticle": "KB5074105"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-01 OOB",
+        "AvailabilityDate": "2026-01-24",
+        "Build": "26200.7628",
+        "KBArticle": "KB5078127"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-01 OOB",
+        "AvailabilityDate": "2026-01-17",
+        "Build": "26200.7627",
+        "KBArticle": "KB5077744"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-01 B",
+        "AvailabilityDate": "2026-01-13",
+        "Build": "26200.7623",
+        "KBArticle": "KB5074109"
+      },
+      {
+        "UpdateType": "2026.01 B",
+        "Type": "Baseline (Restart)",
+        "AvailabilityDate": "2026-01-13",
+        "Build": "26200.7623",
+        "KBArticle": "KB5074109"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-12 B",
+        "AvailabilityDate": "2025-12-09",
+        "Build": "26200.7462",
+        "KBArticle": "KB5072033"
+      },
+      {
+        "UpdateType": "2025.12 B",
+        "Type": "Hotpatch",
+        "AvailabilityDate": "2025-12-09",
+        "Build": "26200.7392",
+        "KBArticle": "KB5072014"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-11 D",
+        "AvailabilityDate": "2025-12-01",
+        "Build": "26200.7309",
+        "KBArticle": "KB5070311"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-11 B",
+        "AvailabilityDate": "2025-11-11",
+        "Build": "26200.7171",
+        "KBArticle": "KB5068861"
+      },
+      {
+        "UpdateType": "2025.11 B",
+        "Type": "Hotpatch",
+        "AvailabilityDate": "2025-11-11",
+        "Build": "26200.7092",
+        "KBArticle": "KB5068966"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-10 D",
+        "AvailabilityDate": "2025-10-28",
+        "Build": "26200.7019",
+        "KBArticle": "KB5067036"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-10 OOB",
+        "AvailabilityDate": "2025-10-20",
+        "Build": "26200.6901",
+        "KBArticle": "KB5070773"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2025-10 B",
+        "AvailabilityDate": "2025-10-14",
+        "Build": "26200.6899",
+        "KBArticle": "KB5066835"
+      },
+      {
+        "UpdateType": "2025.10 B",
+        "Type": "Baseline (Restart)",
+        "AvailabilityDate": "2025-10-14",
+        "Build": "26200.6899",
+        "KBArticle": "KB5066835"
+      }
+    ]
+  },
+  {
+    "OS": "Version 26H1 (OS build 28000)",
+    "Releases": [
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-02 B",
+        "AvailabilityDate": "2026-02-10",
+        "Build": "28000.1575",
+        "KBArticle": "KB5077179"
+      }
+    ]
+  }
+]
