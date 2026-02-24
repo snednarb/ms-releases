@@ -40,6 +40,9 @@ jobs:
             lm: .cache/windowsserver.lastmod
             cachekey: lastmod-winserver
 
+    outputs:
+      run: ${{ steps.shouldrun.outputs.run }}
+
     env:
       URL: ${{ matrix.url }}
       OUT: ${{ matrix.out }}
@@ -62,33 +65,44 @@ jobs:
           NEW=$(curl -sI "$URL" | awk -F': ' 'tolower($0) ~ /^last-modified/ {print $2}')
           OLD=""
           if [ -f "$LM_FILE" ]; then OLD=$(cat "$LM_FILE"); fi
-          echo "DEBUG: new=$NEW old=$OLD"
           echo "new=$NEW" >> $GITHUB_OUTPUT
           echo "old=$OLD" >> $GITHUB_OUTPUT
 
+      - name: Determine whether to run
+        id: shouldrun
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && \
+             [ "${{ steps.lm.outputs.new }}" = "${{ steps.lm.outputs.old }}" ]; then
+            echo "run=false" >> $GITHUB_OUTPUT
+          else
+            echo "run=true" >> $GITHUB_OUTPUT
+          fi
+
       - name: Stop if unchanged (schedule)
-        if: ${{ steps.lm.outputs.new == steps.lm.outputs.old && github.event_name == 'schedule' }}
-        run: echo "No change detected; skipping."
+        if: ${{ steps.shouldrun.outputs.run == 'false' }}
+        run: |
+          echo "No change detected; skipping."
+          exit 0
 
       - uses: actions/setup-python@v5
-        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        if: ${{ steps.shouldrun.outputs.run == 'true' }}
         with:
           python-version: "3.12"
 
       - name: Install deps
-        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        if: ${{ steps.shouldrun.outputs.run == 'true' }}
         run: pip install requests beautifulsoup4
 
       - name: Generate JSON
-        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        if: ${{ steps.shouldrun.outputs.run == 'true' }}
         run: python ms_release_parser.py --url "$URL" --out "$OUT"
 
       - name: Update Last-Modified
-        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        if: ${{ steps.shouldrun.outputs.run == 'true' }}
         run: echo "${{ steps.lm.outputs.new }}" > "$LM_FILE"
 
       - name: Upload artifacts
-        if: ${{ steps.lm.outputs.new != steps.lm.outputs.old || github.event_name != 'schedule' }}
+        if: ${{ steps.shouldrun.outputs.run == 'true' }}
         uses: actions/upload-artifact@v4
         with:
           name: ${{ matrix.id }}
@@ -101,6 +115,7 @@ jobs:
     name: Commit all changes
     runs-on: ubuntu-latest
     needs: build
+    if: ${{ needs.build.outputs.run == 'true' }}
 
     steps:
       - uses: actions/checkout@v4
