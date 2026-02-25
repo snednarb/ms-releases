@@ -1363,6 +1363,13 @@
     "Releases": [
       {
         "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2026-02 D",
+        "AvailabilityDate": "2026-02-24",
+        "Build": "26100.7922",
+        "KBArticle": "KB5077241"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
         "UpdateType": "2026-02 B",
         "AvailabilityDate": "2026-02-10",
         "Build": "26100.7840",
@@ -1433,6 +1440,13 @@
       },
       {
         "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-11 OOB",
+        "AvailabilityDate": "2025-11-18",
+        "Build": "26100.7178",
+        "KBArticle": "KB5072359"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
         "UpdateType": "2025-11 B",
         "AvailabilityDate": "2025-11-11",
         "Build": "26100.7171",
@@ -1451,6 +1465,13 @@
         "AvailabilityDate": "2025-10-28",
         "Build": "26100.7019",
         "KBArticle": "KB5067036"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2025-10 OOB",
+        "AvailabilityDate": "2025-10-23",
+        "Build": "26100.6905",
+        "KBArticle": "KB5070881"
       },
       {
         "ServicingOption": "LTSC â¢ General Availability Channel",
@@ -1746,6 +1767,13 @@
     "Releases": [
       {
         "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-02 D",
+        "AvailabilityDate": "2026-02-24",
+        "Build": "26200.7922",
+        "KBArticle": "KB5077241"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
         "UpdateType": "2026-02 B",
         "AvailabilityDate": "2026-02-10",
         "Build": "26200.7840",
@@ -1861,6 +1889,13 @@
   {
     "OS": "Version 26H1 (OS build 28000)",
     "Releases": [
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-02 D",
+        "AvailabilityDate": "2026-02-24",
+        "Build": "28000.1643",
+        "KBArticle": "KB5077239"
+      },
       {
         "ServicingOption": "General Availability Channel",
         "UpdateType": "2026-02 B",
