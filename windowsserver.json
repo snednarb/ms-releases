@@ -2408,6 +2408,13 @@
     "Releases": [
       {
         "ServicingOption": "LTSC",
+        "UpdateType": "2026-02 OOB",
+        "AvailabilityDate": "2026-03-02",
+        "Build": "20348.4776",
+        "KBArticle": "KB5082314"
+      },
+      {
+        "ServicingOption": "LTSC",
         "UpdateType": "2026-02 B",
         "AvailabilityDate": "2026-02-10",
         "Build": "20348.4773",
