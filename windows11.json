@@ -959,6 +959,13 @@
     "Releases": [
       {
         "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-03 B",
+        "AvailabilityDate": "2026-03-10",
+        "Build": "22631.6783",
+        "KBArticle": "KB5078883"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
         "UpdateType": "2026-02 B",
         "AvailabilityDate": "2026-02-10",
         "Build": "22631.6649",
@@ -1361,6 +1368,20 @@
   {
     "OS": "Version 24H2 (OS build 26100)",
     "Releases": [
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2026-03 B",
+        "AvailabilityDate": "2026-03-10",
+        "Build": "26100.8037",
+        "KBArticle": "KB5079473"
+      },
+      {
+        "UpdateType": "2026.03 B",
+        "Type": "Hotpatch",
+        "AvailabilityDate": "2026-03-10",
+        "Build": "26100.7979",
+        "KBArticle": "KB5079420"
+      },
       {
         "ServicingOption": "LTSC â¢ General Availability Channel",
         "UpdateType": "2026-02 D",
@@ -1767,6 +1788,20 @@
     "Releases": [
       {
         "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-03 B",
+        "AvailabilityDate": "2026-03-10",
+        "Build": "26200.8037",
+        "KBArticle": "KB5079473"
+      },
+      {
+        "UpdateType": "2026.03 B",
+        "Type": "Hotpatch",
+        "AvailabilityDate": "2026-03-10",
+        "Build": "26200.7979",
+        "KBArticle": "KB5079420"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
         "UpdateType": "2026-02 D",
         "AvailabilityDate": "2026-02-24",
         "Build": "26200.7922",
@@ -1889,6 +1924,13 @@
   {
     "OS": "Version 26H1 (OS build 28000)",
     "Releases": [
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-03 B",
+        "AvailabilityDate": "2026-03-10",
+        "Build": "28000.1719",
+        "KBArticle": "KB5079466"
+      },
       {
         "ServicingOption": "General Availability Channel",
         "UpdateType": "2026-02 D",
