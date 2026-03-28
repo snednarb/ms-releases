@@ -1370,6 +1370,20 @@
     "Releases": [
       {
         "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2026-03 D",
+        "AvailabilityDate": "2026-03-26",
+        "Build": "26100.8116",
+        "KBArticle": "KB5079391"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2026-03 OOB",
+        "AvailabilityDate": "2026-03-21",
+        "Build": "26100.8039",
+        "KBArticle": "KB5085516"
+      },
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
         "UpdateType": "2026-03 B",
         "AvailabilityDate": "2026-03-10",
         "Build": "26100.8037",
@@ -1788,6 +1802,20 @@
     "Releases": [
       {
         "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-03 D",
+        "AvailabilityDate": "2026-03-26",
+        "Build": "26200.8116",
+        "KBArticle": "KB5079391"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-03 OOB",
+        "AvailabilityDate": "2026-03-21",
+        "Build": "26200.8039",
+        "KBArticle": "KB5085516"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
         "UpdateType": "2026-03 B",
         "AvailabilityDate": "2026-03-10",
         "Build": "26200.8037",
@@ -1924,6 +1952,13 @@
   {
     "OS": "Version 26H1 (OS build 28000)",
     "Releases": [
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-03 D",
+        "AvailabilityDate": "2026-03-26",
+        "Build": "28000.1764",
+        "KBArticle": "KB5079489"
+      },
       {
         "ServicingOption": "General Availability Channel",
         "UpdateType": "2026-03 B",
