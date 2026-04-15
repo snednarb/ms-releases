@@ -1302,6 +1302,13 @@
     "Releases": [
       {
         "ServicingOption": "CBB â¢ CB â¢ LTSB",
+        "UpdateType": "2026-04 B",
+        "AvailabilityDate": "2026-04-14",
+        "Build": "14393.9060",
+        "KBArticle": "KB5082198"
+      },
+      {
+        "ServicingOption": "CBB â¢ CB â¢ LTSB",
         "UpdateType": "2026-03 B",
         "AvailabilityDate": "2026-03-10",
         "Build": "14393.8957",
@@ -4064,6 +4071,13 @@
   {
     "OS": "Version 1809 (OS build 17763)",
     "Releases": [
+      {
+        "ServicingOption": "LTSC",
+        "UpdateType": "2026-04 B",
+        "AvailabilityDate": "2026-04-14",
+        "Build": "17763.8644",
+        "KBArticle": "KB5082123"
+      },
       {
         "ServicingOption": "LTSC",
         "UpdateType": "2026-03 B",
@@ -7015,6 +7029,13 @@
     "Releases": [
       {
         "ServicingOption": "LTSC",
+        "UpdateType": "2026-04 B",
+        "AvailabilityDate": "2026-04-14",
+        "Build": "19044.7184",
+        "KBArticle": "KB5082200"
+      },
+      {
+        "ServicingOption": "LTSC",
         "UpdateType": "2026-03 B",
         "AvailabilityDate": "2026-03-10",
         "Build": "19044.7058",
@@ -7564,6 +7585,13 @@
   {
     "OS": "Version 22H2 (OS build 19045)",
     "Releases": [
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-04 B",
+        "AvailabilityDate": "2026-04-14",
+        "Build": "19045.7184",
+        "KBArticle": "KB5082200"
+      },
       {
         "ServicingOption": "General Availability Channel",
         "UpdateType": "2026-03 B",
