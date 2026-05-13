@@ -4,6 +4,13 @@
     "Releases": [
       {
         "ServicingOption": "LTSB",
+        "UpdateType": "2026-05 B",
+        "AvailabilityDate": "2026-05-12",
+        "Build": "14393.9140",
+        "KBArticle": "KB5087537"
+      },
+      {
+        "ServicingOption": "LTSB",
         "UpdateType": "2026-04 OOB",
         "AvailabilityDate": "2026-04-19",
         "Build": "14393.9062",
@@ -1304,6 +1311,13 @@
     "Releases": [
       {
         "ServicingOption": "LTSC",
+        "UpdateType": "2026-05 B",
+        "AvailabilityDate": "2026-05-12",
+        "Build": "17763.8755",
+        "KBArticle": "KB5087538"
+      },
+      {
+        "ServicingOption": "LTSC",
         "UpdateType": "2026-04 OOB",
         "AvailabilityDate": "2026-04-19",
         "Build": "17763.8647",
@@ -2450,6 +2464,20 @@
     "Releases": [
       {
         "ServicingOption": "LTSC",
+        "UpdateType": "2026-05 B",
+        "AvailabilityDate": "2026-05-12",
+        "Build": "20348.5139",
+        "KBArticle": "KB5087545"
+      },
+      {
+        "UpdateType": "2026.05 B",
+        "Type": "Hotpatch",
+        "AvailabilityDate": "2026-05-12",
+        "Build": "20348.5074",
+        "KBArticle": "KB5087424"
+      },
+      {
+        "ServicingOption": "LTSC",
         "UpdateType": "2026-04 OOB",
         "AvailabilityDate": "2026-04-19",
         "Build": "20348.5024",
@@ -3265,6 +3293,20 @@
   {
     "OS": "Windows Server 2025 (OS build 26100)",
     "Releases": [
+      {
+        "ServicingOption": "LTSC",
+        "UpdateType": "2026-05 B",
+        "AvailabilityDate": "2026-05-12",
+        "Build": "26100.32860",
+        "KBArticle": "KB5087539"
+      },
+      {
+        "UpdateType": "2026.05 B",
+        "Type": "Hotpatch",
+        "AvailabilityDate": "2026-05-12",
+        "Build": "26100.32772",
+        "KBArticle": "KB5087423"
+      },
       {
         "ServicingOption": "LTSC",
         "UpdateType": "2026-04 OOB",
