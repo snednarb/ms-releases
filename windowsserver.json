@@ -4,6 +4,13 @@
     "Releases": [
       {
         "ServicingOption": "LTSB",
+        "UpdateType": "2026-09 B",
+        "AvailabilityDate": "2026-09-08",
+        "Build": "14393.9512",
+        "KBArticle": "KB5123099"
+      },
+      {
+        "ServicingOption": "LTSB",
         "UpdateType": "2026-08 B",
         "AvailabilityDate": "2026-08-11",
         "Build": "14393.9418",
@@ -1332,6 +1339,13 @@
     "Releases": [
       {
         "ServicingOption": "LTSC",
+        "UpdateType": "2026-09 B",
+        "AvailabilityDate": "2026-09-08",
+        "Build": "17763.9245",
+        "KBArticle": "KB5122876"
+      },
+      {
+        "ServicingOption": "LTSC",
         "UpdateType": "2026-08 B",
         "AvailabilityDate": "2026-08-11",
         "Build": "17763.9121",
@@ -2506,6 +2520,20 @@
     "Releases": [
       {
         "ServicingOption": "LTSC",
+        "UpdateType": "2026-09 B",
+        "AvailabilityDate": "2026-09-08",
+        "Build": "20348.5622",
+        "KBArticle": "KB5122882"
+      },
+      {
+        "UpdateType": "2026.09 B",
+        "Type": "Baseline (Restart)",
+        "AvailabilityDate": "2026-09-08",
+        "Build": "20348.5622",
+        "KBArticle": "KB5122882"
+      },
+      {
+        "ServicingOption": "LTSC",
         "UpdateType": "2026-08 B",
         "AvailabilityDate": "2026-08-11",
         "Build": "20348.5499",
@@ -3379,6 +3407,20 @@
     "Releases": [
       {
         "ServicingOption": "LTSC",
+        "UpdateType": "2026-09 B",
+        "AvailabilityDate": "2026-09-08",
+        "Build": "26100.33438",
+        "KBArticle": "KB5122871"
+      },
+      {
+        "UpdateType": "2026.09 B",
+        "Type": "Baseline (Restart)",
+        "AvailabilityDate": "2026-09-08",
+        "Build": "26100.33438",
+        "KBArticle": "KB5122871"
+      },
+      {
+        "ServicingOption": "LTSC",
         "UpdateType": "2026-08 B",
         "AvailabilityDate": "2026-08-11",
         "Build": "26100.33296",
@@ -3388,8 +3430,8 @@
         "UpdateType": "2026.08 B",
         "Type": "Hotpatch",
         "AvailabilityDate": "2026-08-11",
-        "Build": "26100.33296",
-        "KBArticle": "KB5120233"
+        "Build": "26100.33222",
+        "KBArticle": "KB5120228"
       },
       {
         "ServicingOption": "LTSC",
