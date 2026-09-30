@@ -2415,5 +2415,17 @@
         "KBArticle": "KB5077179"
       }
     ]
+  },
+  {
+    "OS": "Version 26H2 (OS build 26300)",
+    "Releases": [
+      {
+        "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-09 D",
+        "AvailabilityDate": "2026-09-29",
+        "Build": "26300.9550",
+        "KBArticle": "KB5124010"
+      }
+    ]
   }
 ]
