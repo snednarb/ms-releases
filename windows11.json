@@ -959,6 +959,13 @@
     "Releases": [
       {
         "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-10 OOB",
+        "AvailabilityDate": "2026-10-26",
+        "Build": "22631.7654",
+        "KBArticle": "KB5134130"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
         "UpdateType": "2026-10 B",
         "AvailabilityDate": "2026-10-13",
         "Build": "22631.7652",
@@ -1424,6 +1431,13 @@
   {
     "OS": "Version 24H2 (OS build 26100)",
     "Releases": [
+      {
+        "ServicingOption": "LTSC â¢ General Availability Channel",
+        "UpdateType": "2026-10 OOB",
+        "AvailabilityDate": "2026-10-26",
+        "Build": "26100.9725",
+        "KBArticle": "KB5134133"
+      },
       {
         "ServicingOption": "LTSC â¢ General Availability Channel",
         "UpdateType": "2026-10 B",
@@ -2019,6 +2033,13 @@
     "Releases": [
       {
         "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-10 OOB",
+        "AvailabilityDate": "2026-10-26",
+        "Build": "26200.9725",
+        "KBArticle": "KB5134133"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
         "UpdateType": "2026-10 B",
         "AvailabilityDate": "2026-10-13",
         "Build": "26200.9711",
@@ -2332,6 +2353,13 @@
     "Releases": [
       {
         "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-10 OOB",
+        "AvailabilityDate": "2026-10-26",
+        "Build": "28000.3237",
+        "KBArticle": "KB5134134"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
         "UpdateType": "2026-10 B",
         "AvailabilityDate": "2026-10-13",
         "Build": "28000.3231",
@@ -2463,6 +2491,13 @@
     "Releases": [
       {
         "ServicingOption": "General Availability Channel",
+        "UpdateType": "2026-10 OOB",
+        "AvailabilityDate": "2026-10-26",
+        "Build": "26300.9725",
+        "KBArticle": "KB5134133"
+      },
+      {
+        "ServicingOption": "General Availability Channel",
         "UpdateType": "2026-10 B",
         "AvailabilityDate": "2026-10-13",
         "Build": "26300.9711",
@@ -2474,13 +2509,6 @@
         "AvailabilityDate": "2026-10-13",
         "Build": "26300.9711",
         "KBArticle": "KB5127648"
-      },
-      {
-        "ServicingOption": "General Availability Channel",
-        "UpdateType": "2026-09 D",
-        "AvailabilityDate": "2026-09-29",
-        "Build": "26300.9550",
-        "KBArticle": "KB5124010"
       }
     ]
   }
